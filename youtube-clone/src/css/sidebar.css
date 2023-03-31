@@ -1,0 +1,24 @@
+.category-btn {
+    position: relative;
+    margin: 10px 0;
+    padding: 10px 5px;
+    background: none;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.category-btn:hover {
+    background-color: red;
+}
+
+.category-btn span {
+    display: inline-block;
+    color: white;
+    vertical-align: middle;
+}
+
+.category-btn span:last-child {
+    width: 75px;
+    text-align: left;
+}
