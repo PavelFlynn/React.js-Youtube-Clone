@@ -2,6 +2,7 @@
 
 This project was developed as part of the React.js learning curve. Tech used:
 
+- React.js / JS: [Vite.js](https://vitejs.dev/).
 - UI: [MUI](https://mui.com/).
 - API integration: [RapidAPI](https://rapidapi.com/hub).
 
